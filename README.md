@@ -1,17 +1,24 @@
+# FSociety
+ ### About the app
+  FSociety is an app that notifies when you should be taking your pills or medicines. The app is a remainder app that notifies or reminds you whenever you need to take medicine. Just type the name of the medicine and the time when you want to take the medicine, and then let FSociety bother about reminding you.
 
-A new Flutter project.
+This app is very helpful for a lot of people , especially old people you tend to forget and people who are busy.
+  
+## Team Details
+### TEAM NAME :- TRIO <br />
 
-## Getting Started
+ MEMBERS NAME :-
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
+ NAME - Arvind <br />
+ ROLL - S20200020247 <br />
+ NAME - Vidya Sagar <br />
+ ROLL - S20200020312 <br />
+ NAME - Madhava <br />
+ ROLL - S20200020291 <br />
+# Pre-requisites
+Android mobile with Android 6.0 and above
+# Steps to run the application
+ 1.install the apk from the link below <br />
+          
+ <br />
+ 
