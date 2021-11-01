@@ -19,6 +19,6 @@ This app is very helpful for a lot of people , especially old people you tend to
 Android mobile with Android 6.0 and above
 # Steps to run the application
  1.install the apk from the link below <br />
-          
+          https://drive.google.com/drive/u/2/my-drive
  <br />
  
